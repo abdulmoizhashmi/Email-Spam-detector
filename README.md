@@ -2,6 +2,8 @@
 
 A complete, editable Python project for classifying email text as **Spam** or **Ham (Not Spam)**.
 
+[Open the live app](https://abdulmoiz-email-spam-detector.streamlit.app/)
+
 ## Run locally
 
 Python 3.10 or newer is recommended.
